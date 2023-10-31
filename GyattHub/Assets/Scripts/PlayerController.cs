@@ -4,8 +4,14 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    
+
     //player movement
+    public float speed;
+
+    private void movement()
+    {
+        //yadda yadda
+    }
     
     // Start is called before the first frame update
     void Start()
